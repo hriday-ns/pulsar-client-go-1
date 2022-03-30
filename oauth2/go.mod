@@ -1,4 +1,4 @@
-module github.com/apache/pulsar-client-go/oauth2
+module github.com/hriday-ns/pulsar-client-go-1/oauth2
 
 go 1.15
 

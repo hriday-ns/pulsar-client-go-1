@@ -18,7 +18,7 @@
 package pulsartracing
 
 import (
-	"github.com/apache/pulsar-client-go/pulsar"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar"
 	"github.com/opentracing/opentracing-go"
 )
 

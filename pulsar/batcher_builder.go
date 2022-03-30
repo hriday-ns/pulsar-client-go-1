@@ -18,7 +18,7 @@
 package pulsar
 
 import (
-	"github.com/apache/pulsar-client-go/pulsar/internal"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar/internal"
 )
 
 type BatcherBuilderType int

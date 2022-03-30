@@ -28,9 +28,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar/internal"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/auth"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar/internal/auth"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -31,7 +31,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar/log"
 )
 
 // DefaultMessageCrypto implementation of the interface MessageCryto

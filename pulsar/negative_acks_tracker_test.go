@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar/log"
 	"github.com/stretchr/testify/assert"
 )
 

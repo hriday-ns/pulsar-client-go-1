@@ -17,7 +17,7 @@
 
 package pulsar
 
-import "github.com/apache/pulsar-client-go/pulsar/crypto"
+import "github.com/hriday-ns/pulsar-client-go-1/pulsar/crypto"
 
 // ProducerEncryptionInfo encryption related fields required by the producer
 type ProducerEncryptionInfo struct {
