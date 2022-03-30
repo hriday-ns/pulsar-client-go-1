@@ -1,17 +1,17 @@
-module github.com/apache/pulsar-client-go
+module github.com/hriday-ns/pulsar-client-go-1
 
 go 1.15
 
 require (
 	github.com/AthenZ/athenz v1.10.39
 	github.com/DataDog/zstd v1.5.0
-	github.com/hriday-ns/pulsar-client-go-1/oauth2 v0.0.0-20220120090717-25e59572242e
 	github.com/beefsack/go-rate v0.0.0-20220214233405-116f4ca011a0
 	github.com/bmizerany/perks v0.0.0-20141205001514-d9a9656a3a4b
 	github.com/davecgh/go-spew v1.1.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.1.2
+	github.com/hriday-ns/pulsar-client-go-1/oauth2 v0.0.0-20220120090717-25e59572242e
 	github.com/klauspost/compress v1.14.4
 	github.com/linkedin/goavro/v2 v2.9.8
 	github.com/opentracing/opentracing-go v1.2.0
