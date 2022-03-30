@@ -21,11 +21,11 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/crypto"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar/internal/crypto"
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar/internal"
 )
 
 func TestSingleMessageIDNoAckTracker(t *testing.T) {

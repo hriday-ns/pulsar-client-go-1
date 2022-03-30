@@ -20,7 +20,7 @@ package crypto
 import (
 	"testing"
 
-	pb "github.com/apache/pulsar-client-go/pulsar/internal/pulsar_proto"
+	pb "github.com/hriday-ns/pulsar-client-go-1/pulsar/internal/pulsar_proto"
 	"github.com/stretchr/testify/assert"
 )
 

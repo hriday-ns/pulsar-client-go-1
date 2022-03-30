@@ -24,8 +24,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal/auth"
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar/internal/auth"
+	"github.com/hriday-ns/pulsar-client-go-1/pulsar/log"
 )
 
 // ConnectionPool is a interface of connection pool.
